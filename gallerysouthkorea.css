@@ -1,0 +1,24 @@
+body {
+  background-image: url("southkorea.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+
+}
+
+  #countryname {
+  font-size: 70px;
+  font-family: 'Century Gothic, sans-serif';
+  color: white;
+  margin-top: 100px;
+  margin-left: 70px;
+}
+
+h1 {
+  font-family: 'Century Gothic, sans-serif';
+  font-size: 40px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 500;
+  line-height: 26.4px;
+}
+

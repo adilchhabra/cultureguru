@@ -1,0 +1,48 @@
+	#country {
+	font-size: 50px;
+	font-family: 'Gloria Hallelujah';
+	color: white;
+	margin-top: 100px;
+	margin-left: 70px;
+}
+h1 {
+	font-family: 'Gloria Hallelujah';
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+}
+h3 {
+	font-family: 'Gloria Hallelujah';
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	text-shadow: 0px 2px 3px #666;
+	font-weight: 500;
+	line-height: 15.4px;
+}
+p {
+	font-family: 'Gloria Hallelujah';
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;
+}
+blockquote {
+	font-family: 'Gloria Hallelujah';
+	font-size: 21px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 30px;
+}
+pre {
+	font-family: 'Gloria Hallelujah';
+	font-size: 13px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 18.5714px;
+}
